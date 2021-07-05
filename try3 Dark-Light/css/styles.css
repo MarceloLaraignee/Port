@@ -194,10 +194,6 @@ img{
     font-weight: var(--font-medium);
 }
 
-.nav__logo{
-    font-family: hermes;
-    font-size: var(--h1-font-size)
-}
 .nav__logo:hover{
     color: var(--first-color);
 }
